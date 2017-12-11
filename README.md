@@ -11,6 +11,7 @@ We will be looking at a lot of standard expectations for these types of applicat
    2. _Commenting_
    3. _Modularity_
    4. _Input sanitization_
+
 Please feel free to utilize any library or framework that you would like provided that you can package it for submission.  
 Please provide a _README.md_ explaining how to launch your application locally and how to contact you if we have any problems with the application. 
 
