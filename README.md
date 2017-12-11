@@ -7,10 +7,10 @@ The following are a list of rules that apply to all submissions:
 
 ### Grading criteria:
 We will be looking at a lot of standard expectations for these types of applications, such as:
-   ._Unit Tests_
-   ._Commenting_
-   ._Modularity_
-   ._Input sanitization_
+   _Unit Tests_
+   _Commenting_
+   _Modularity_
+   _Input sanitization_
 Please feel free to utilize any library or framework that you would like provided that you can package it for submission.  
 Please provide a _README.md_ explaining how to launch your application locally and how to contact you if we have any problems with the application. 
 
